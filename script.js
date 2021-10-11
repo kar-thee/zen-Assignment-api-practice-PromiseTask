@@ -51,7 +51,7 @@ function displayDataFunc(data) {
     chapterGroup = data.chapgrp_tam;
     chapter = data.chap_tam;
     explanation = data.tam_exp;
-    line = `${data.line1}<br>${data.line1}`;
+    line = `${data.line1}<br>${data.line2}`;
   }
   let lineNo = document.querySelector(".card-footer");
   lineNo.innerHTML = "Thirukural Stance : " + Snumber;
