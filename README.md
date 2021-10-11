@@ -4,3 +4,4 @@ Using Thirukural api - we displayed a page where user an get to learn thirukural
 <br><br>
 Netlify_URL : https://thirukural-api-practice-promisetask.netlify.app/
 <br><br>
+demo : https://kar-thee.github.io/zen-Assignment-api-practice-thirukural-task/
